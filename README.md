@@ -1,3 +1,6 @@
+Teste na segunda Branch
+Treinando github
+
 # Curso de Github Senai 
 ## curso c#
 :point_right: Iremos estudar brevemente HTML, CSS, JavaScript.
