@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Teste na segunda Branch
 Treinando github
+=======
+#teste "TRABALHANDO COM BRANCH"
+>>>>>>> tarefa/minha-primeira-branch
 
 # Curso de Github Senai 
 ## curso c#
